@@ -1,6 +1,6 @@
 # react-native-web Hello world
 
-Simple react-native-web Hello world
+Simple [react-native-web](https://github.com/necolas/react-native-web) Hello world
 
 ## Install
 
