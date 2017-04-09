@@ -2,7 +2,7 @@
   "name": "react-native-web-hello-world",
   "version": "0.0.1",
   "description": "Simple react-native-web Hello world",
-  "author": "github.com/dsernst"
+  "author": "github.com/dsernst",
   "scripts": {
     "start": "webpack-dev-server --port 3000 --progress --colors --inline"
   },
